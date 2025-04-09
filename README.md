@@ -17,5 +17,6 @@ A collection of Python scripts I designed to automate initial configuration of M
 ## Usage
 
 ### Basic Script Usage
-Each script can be run from the SecureCRT termianl emulation program. Sorry they can't be run from the CLI directly cuz I'm not that good. Yet...
+Each script can be run from the SecureCRT termianl emulation program. Sorry they can't be run from the CLI directly cuz I'm not that good, Yet...
+
 Connect to your MikroTik device, click script > run > select script > click run.
